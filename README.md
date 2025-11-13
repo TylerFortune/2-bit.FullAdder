@@ -58,7 +58,7 @@ To set up and run this 2-bit Full Adder project:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/TylerFortune/2-bit.FullAdder.git](https://github.com/TylerFortune/2-bit.FullAdder.git)
+    git clone https://github.com/TylerFortune/2-bit.FullAdder
     ```
 2.  **Navigate to the project directory:**
     ```bash
